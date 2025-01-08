@@ -12,7 +12,7 @@
 
 <h2 align="left">
   <picture>
-    <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 20px>
+    <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px>
   </picture> 
   About Me
 </h2>
@@ -51,7 +51,7 @@
 
 <h2 align="left">
   <picture> 
-    <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  
+    <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 40px>  
   </picture>
   Github Stats
 </h2>
