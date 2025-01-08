@@ -11,13 +11,13 @@
 <h2 align="left">
   <picture>
     <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>
-  </picture>
+  </picture> 
   About Me
 </h2>
 
 ###
 
-<p align="left">I'm a student from Bolivia, currently studying at Univalle in Santa Cruz.<br>- 🎓 I’m pursuing a degree in Computer Systems Engineering.<br>- 🎵 I enjoy walking, listening to music, and working out at the gym.<br>- 🌱 I’m always looking to learn and grow in technology and development.<br>- 🤖 I’m passionate about Artificial Intelligence and love exploring its endless possibilities every day.</p>
+<p align="left">I'm a student from Bolivia 🇧🇴, currently studying at Univalle in Santa Cruz.<br>- 🎓 I’m pursuing a degree in Computer Systems Engineering.<br>- 🎵 I enjoy walking, listening to music, and working out at the gym.<br>- 🌱 I’m always looking to learn and grow in technology and development.<br>- 🤖 I’m passionate about Artificial Intelligence and love exploring its endless possibilities every day.</p>
 
 ###
 
@@ -25,7 +25,11 @@
 
 ###
 
-<div align="left">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -33,8 +37,12 @@
 
 ###
 
-<h2 align="left"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture>
-Github Stats</h2>
+<h2 align="left">
+  <picture> 
+    <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  
+  </picture>
+  Github Stats
+</h2>
 
 ###
 
