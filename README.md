@@ -12,14 +12,24 @@
 
 <h2 align="left">
   <picture>
-    <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>
+    <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 20px>
   </picture> 
   About Me
 </h2>
 
 ###
 
-<p align="left">I'm a student from Bolivia, currently studying at Univalle in Santa Cruz.<br>- 🎓 I’m pursuing a degree in Computer Systems Engineering.<br>- 🎵 I enjoy walking, listening to music, and working out at the gym.<br>- 🌱 I’m always looking to learn and grow in technology and development.<br>- 🤖 I’m passionate about Artificial Intelligence and love exploring its endless possibilities every day.</p>
+<p align="left">
+  I'm a student from Bolivia 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Bolivia.svg" alt="Bandera de Bolivia" width="20"> , 
+  currently studying at Univalle in Santa Cruz.<br>
+  - 🎓 I’m pursuing a degree in Computer Systems Engineering.<br>
+  - 🎵 I enjoy walking, listening to music, and working out at the gym.<br>
+  - 🌱 I’m always looking to learn and grow in technology and development.<br>
+  - 🤖 I’m passionate about Artificial Intelligence and love exploring its endless possibilities every day.
+</p>
+
+
 
 ###
 
